@@ -1,7 +1,7 @@
 
 # UnifyId challenge
 
-Generating 128*128 RDB image using Random.org
+Generating 128*128 RGB image using Random.org
 
 ### Dependencies
 
